@@ -1,0 +1,75 @@
+[
+  {
+    "folder": "newjeans-omg-demo",
+    "title": "OMG (bundled demo)",
+    "artist": "NewJeans",
+    "duration_seconds": 36.033,
+    "pose_frames": 360,
+    "files": [
+      {
+        "name": "song.json",
+        "bytes": 3016567,
+        "sha256": "1cfbc7559d1ba46937df0d61fbc41ad8edc013770cb9c1d58645c9567677f1e6"
+      },
+      {
+        "name": "song.mp4",
+        "bytes": 18650207,
+        "sha256": "8e0eb95b507c765a0e02e4526e47923c21b0876a8d89f46eab68a5d18c63478e"
+      },
+      {
+        "name": "song.mp3",
+        "bytes": 796377,
+        "sha256": "2b2cabec763fec5940f03ee2147d7bb2587408c5fb18c92e1dfcb858eca64c10"
+      },
+      {
+        "name": "cover.png",
+        "bytes": 565607,
+        "sha256": "4dd3701bb6d6a11dc528b5c3ed9d892bc22d387f18ebbe4bbc9e0abb16682262"
+      },
+      {
+        "name": "poses.jsonl",
+        "bytes": 150083,
+        "sha256": "41783fbb52fc9cdd2515efad05959e36c86c58c05b3c9574ded6f5af246686d1"
+      }
+    ]
+  },
+  {
+    "folder": "ytdown_com_youtube_media_nrvdr5pfyq0_just_dance_2021_unlimited_all_the_stars_by_kendrick_lamar_ft_sza_001_1080p_2",
+    "title": "YTDown.com YouTube Media nRvdr5PFyQ0 Just-Dance-2021-Unlimited-All-The-Stars-by-Kendrick-Lamar-Ft-SZA 001 1080p",
+    "artist": "Unknown",
+    "duration_seconds": 270.483,
+    "pose_frames": 8115,
+    "files": [
+      {
+        "name": "song.json",
+        "bytes": 42296928,
+        "sha256": "2d1ea65d986bb9b0ced45da0161a31cad2dc6bc262bc572fba24a75538e8854b"
+      },
+      {
+        "name": "song.mp4",
+        "bytes": 181733602,
+        "sha256": "153e783b288706cbd14091c0e4c86f2776f1da307b6cfc5f80c273342622e8a3"
+      },
+      {
+        "name": "song.mp3",
+        "bytes": 3670675,
+        "sha256": "fbb7eaa005b20a6f7446f20e4c97d2ae6951bac8e7db809f363be4bf54d14501"
+      },
+      {
+        "name": "cover.png",
+        "bytes": 1859928,
+        "sha256": "4a5087d2c844fefa52b33423e77234d1bc06159272d30caa938a8643a740d842"
+      },
+      {
+        "name": "preview_pose.mp4",
+        "bytes": 663134367,
+        "sha256": "e8c64353f2062bc0b6aa3274b86763ed0f0b8c6d7c542d1185ff14db2d01d444"
+      },
+      {
+        "name": "poses.jsonl",
+        "bytes": 2165007,
+        "sha256": "45ef8ce22ad1d5a710a7f803758a9e804eed42132045784012a43e5f003ccb46"
+      }
+    ]
+  }
+]
